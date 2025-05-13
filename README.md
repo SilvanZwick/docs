@@ -1,7 +1,5 @@
 # docs
 Some misc docs
 
-<details>
-<summary>Table of contents</summary>
-TODO: make TOC
-</details>
+### Table of contents
+- @HomeUnBlok - [unblockers/securly/sps](unblockers/securly/sps)
